@@ -221,13 +221,7 @@ READ MORE: Google Speech API (Pricing and Key) at: https://cloud.google.com/spee
 **_Mention below line for credits-_**  
   
       
-  
-## 9. Thank me on-  
-  
-- Follow me on Instagram:  [https://www.instagram.com/yashkumarvaibhav](https://www.instagram.com/yashkumarvaibhav)  
-      
-- Subscribe me on YouTube:  [https://www.youtube.com/@yashvaibhav9546](https://www.youtube.com/@yashvaibhav95467)  
-  
+   
 ## License  
   
 [MIT](https://choosealicense.com/licenses/mit/)
