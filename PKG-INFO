@@ -1,3 +1,24 @@
+Metadata-Version: 2.1
+Name: ChelsiAI
+Version: 1.8
+Summary: ChelsiAI is python library to build your own AI virtual assistant with natural language processing.
+Home-page: <"githublink">
+Author: Yash Kumar Vaibhav & Team
+Author-email: chelsiai2022@gmail.com
+License: UNKNOWN
+Project-URL: Official Website, https://yashkumarvaibhav.github.io/mysite
+Project-URL: Documentation, "github-link"
+Project-URL: Donate, https://www.buymeacoffee.com/
+Project-URL: Say Thanks!, https://www.youtube.com/@yashvaibhav9546
+Project-URL: Source, "github-link"
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: License.txt
+
 [![Header](https://i.postimg.cc/1XrrC9N4/Screenshot-from-2022-12-16-17-25-25.png "Header")](yashkumarvaibhav.github.io/mysite)  
   
   
@@ -26,6 +47,7 @@ Click on the image below to watch the tutorial on YouTube-
 **Tutorial 1-**
 
 [![ChelsiAI Tutorial 1](https://i.postimg.cc/W1kkPzJd/Screenshot-from-2022-12-16-19-53-40.png)](https://www.youtube.com/@yashvaibhav95467)
+
 
 
   
@@ -142,9 +164,10 @@ READ MORE: Google Speech API (Pricing and Key) at: https://cloud.google.com/spee
   
 1. Currently, it supports only english language  
 2. Supports voice and text input/output.  
-3. Supports AI based voice input and by using google api voice input.   
-4. Lightweight and able to understand natural language (commands)  
-5. Ability to add your own custom functions.  
+3. Supports AI based voice input and by using google api voice input.  
+4. All intellectual task is process in ChelsiAI server so there is no load on your system.  
+5. Lightweight and able to understand natural language (commands)  
+6. Ability to add your own custom functions.  
   
 ### 4.1. Supported Commands-  
   
