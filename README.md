@@ -7,27 +7,6 @@
   
 This project is crated only for those who are having interest in building Virtual Assistant. Generally it takes a lots of time to write code from scratch to build Virtual Assistant. So, we have built a Library called "ChelsiAI", which gives you easy functionality to build your own Virtual Assistant.  
   
-# Content-  
-  
-1. What is ChelsiAI?  
-2. Prerequisite  
-3. Getting Started- How to use it?  
-4. What it can do (Features it supports)  
-5. Future / Request Features  
-6. Contribute  
-7. Contact me  
-8. Donate  
-9. Thank me on-  
-
-## YouTube Tutorial-
-
-Click on the image below to watch the tutorial on YouTube-
-
-**Tutorial 1-**
-
-[![ChelsiAI Tutorial 1](https://i.postimg.cc/W1kkPzJd/Screenshot-from-2022-12-16-19-53-40.png)](https://www.youtube.com/@yashvaibhav95467)
-
-
   
 ## **1. What is Chelsi AI?**  
   
