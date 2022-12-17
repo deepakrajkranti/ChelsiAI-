@@ -114,8 +114,8 @@ For voice output-
 
 voice_output It use 'gtts' or 'pyttsx3' backend to produce voice output. You can set backend_tts_api.
  
- 
-   
+### 6. Live link
+(https://pypi.org/project/ChelsiAI/)
 ## License  
   
 [MIT](https://choosealicense.com/licenses/mit/)
