@@ -93,6 +93,26 @@ obj.register_feature(feature_obj=custom_function, feature_command='custom featur
   
 obj.start()
 ```  
+### 5. Supported Input/Output Methods (Which option do I need to choose?)-
+For text input-'
+
+text_input Just ask input from command line
+
+For voice input-
+
+voice_input_google_api It use google free API. After using few minutes GoogleAPI might restrict you to use it. It's a limitation from GoogleAPI. But it's fast, very accurate and consume very less memory.
+
+or
+
+voice_input_deepspeech_streaming ChelsiAI's own Machine Learning model to process voice input and convert into text for further processing. Little slow as compared to GoogleAPI, consume more memory, less accurate. But it's free to use and no restriction.
+
+For text output-
+
+text_output Just print output in command line
+
+For voice output-
+
+voice_output It use 'gtts' or 'pyttsx3' backend to produce voice output. You can set backend_tts_api.
  
  
    
