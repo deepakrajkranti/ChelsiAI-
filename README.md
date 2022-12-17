@@ -59,7 +59,7 @@ Chelsi AI is a Python Module which is able to perform task like Chatbot, Assista
 
 * [Optional Step] You might need to Install [Microsoft Visual C++ Redistributable for Visual Studio 2022](https://visualstudio.microsoft.com/downloads/#microsoft-visual-c-redistributable-for-visual-studio-2022)
 
-### 3.2. Description-
+### 4. Description-
  
    You need only this piece of code-  
 
